@@ -1,0 +1,25 @@
+1- Crie um novo projeto com nome FormaGeometrica.
+
+2- Crie uma classe com nome Retangulo e atributos base e  altura.
+
+3- Crie uma classe com nome Circulo e atributo raio.
+
+4- Crie uma classe Sistema com um método main para realizar  os testes do projeto.
+
+5) Implemente o cálculo das seguintes propriedades para  retângulo:
+Perímetro
+Área
+
+6- Implemente o cálculo das seguintes propriedades para círculo:
+Perímetro
+Área
+7- Implemente uma rotina que solicite que o usuário escolha uma  forma geométrica e na sequência informe os valores necessários  para o cálculo das propriedades.
+Exemplo:
+Selecione uma opção:  
+1 - Retângulo
+2- Círculo
+0 - Sair
+Opção: [entrada do usuário]
+Valor do raio: [entrada do usuário]
+Perímetro: [resultado]
+Área: [resultado]
