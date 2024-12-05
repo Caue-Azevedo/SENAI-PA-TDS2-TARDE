@@ -1,0 +1,25 @@
+Exceptions
+Tratamento de exceções básicas
+
+1- Crie um programa que:
+Solicite ao usuário que insira dois números.
+Divida o primeiro pelo segundo.
+Use try-catch para capturar uma possível ArithmeticException caso o divisor seja 0.
+Mostre uma mensagem amigável ao usuário explicando o erro.
+Desafio Extra: Adicione um bloco finally para exibir uma mensagem como "Execução encerrada."
+
+2- Exceções personalizadas
+Crie uma classe de exceção personalizada chamada NegativeNumberException.
+Implemente um programa que:
+Solicite ao usuário um número.
+Lance a NegativeNumberException se o número inserido for negativo.
+Capture a exceção e mostre uma mensagem personalizada ao usuário.
+
+
+3- Multiplos blocos catch
+Escreva um programa que:
+Solicite ao usuário que insira dois valores (como Strings) e os converta para inteiros.
+Realize a divisão do primeiro pelo segundo.
+Use múltiplos blocos catch para capturar e tratar:
+NumberFormatException (caso o usuário insira algo que não seja um número).
+ArithmeticException (caso o divisor seja 0).
