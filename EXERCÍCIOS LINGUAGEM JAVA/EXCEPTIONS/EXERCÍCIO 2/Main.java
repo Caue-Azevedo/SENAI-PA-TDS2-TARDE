@@ -30,7 +30,7 @@ public class Main {
             }
 
         } catch (NegativeNumberException e) {
-            // = Tratamento personalizado da exceção = //
+            // = Tratamento da exceção = //
             System.out.println(e.getMessage());
             System.out.println("|============================================|");
         } catch (Exception e) {
