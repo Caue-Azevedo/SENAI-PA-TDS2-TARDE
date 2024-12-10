@@ -1,15 +1,17 @@
-1- Escreva um método sem retorno que faça a leitura de um nome pelo console:
+    1- Escreva um método sem retorno que faça a leitura de um nome pelo console:
 Digite seu nome: Maria
 Faça o método imprimir o nome digitado no console.
 No método main, chame o seu método
 Dê ao seu método um nome adequado, respeitando a convenção.
-2- Escreva um método que faça a leitura de um número pelo console:
+
+    2- Escreva um método que faça a leitura de um número pelo console:
 Digite um número: 15
 Faça o método retornar o número lido multiplicado por 10
 No método main, chame o seu método
 Capture o retorno do método em uma variável
 Imprima a variável no console: Número retornado: 150
-3- Escreva um método que receba dois números como parâmetros
+
+    3- Escreva um método que receba dois números como parâmetros
 Este método deve retornar o primeiro número somado com o segundo
 Chame seu método a partir do main
 Capture o retorno em uma variável adequada
