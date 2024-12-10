@@ -1,0 +1,12 @@
+1)Crie um novo projeto com nome ControleBancario.
+
+2)Crie uma classe com nome Cliente e atributos código e nome.
+
+3)Crie uma classe Sistema com um método main para realizar  os testes do projeto.
+
+4)Faça um teste criando objetos da classe Cliente.
+Os bancos oferecem aos clientes a possibilidade de obter um cartão  de crédito que pode ser utilizados para fazer compras. Um cartão  de crédito possui uma numeração, data de validade e código  numérico de verificação.
+
+5)Crie uma classe CartaoCredito para modelar os objetos que  representarão os cartões de crédito. Considere a numeração e a  data como valores de texto.
+
+6)Faça um teste criando objetos da classe CartaoCredito. Altere e imprima os atributos desses objetos.
