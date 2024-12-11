@@ -1,0 +1,28 @@
+    1. Criando uma Classe Produto
+Crie uma classe chamada Produto que representa um item em um estoque.
+Atributos: nome (String), preco (double) e quantidade (int).
+Construtores:
+Um construtor sem parâmetros que inicializa nome como "Desconhecido", preco como 0.0 e quantidade como 0.
+Um construtor que recebe todos os parâmetros para inicializar os atributos.
+Getters e Setters:
+Crie métodos getNome(), setNome(), getPreco(), setPreco(), getQuantidade(), setQuantidade()
+
+
+    2. Desenvolva uma classe Livro para representar um livro em uma biblioteca.
+Atributos: titulo (String), autor (String), anoPublicacao (int), disponivel (boolean).
+Construtores:
+Um construtor que recebe titulo e autor, definindo o anoPublicacao como 0 e disponivel como true.
+Um construtor que recebe todos os parâmetros.
+Getters e Setters:
+Crie getters e setters para todos os atributos. No setter de disponivel, verifique se ele realmente mudou para economizar processamento.
+
+
+    3. Desenvolva uma classe Carro para praticar encapsulamento.
+Atributos: marca (String), modelo (String), ano (int) e velocidade (int).
+Construtores:
+Um construtor que recebe marca, modelo e ano, inicializando velocidade como 0.
+Getters e Setters:
+Crie getters e setters para todos os atributos, mas o setter de velocidade só permite valores positivos.
+Métodos Adicionais:
+acelerar(int incremento) que aumenta a velocidade.
+frear(int decremento) que reduz a velocidade, mas não permite valores negativos.
